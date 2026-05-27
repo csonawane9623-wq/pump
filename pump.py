@@ -41,8 +41,8 @@ init(autoreset=True, convert=True)   # convert=True forces ANSI on Windows cmd/p
 # ════════════════════════════════════════════════════════════════
 #   YOUR CREDENTIALS  -- fill these in
 # ════════════════════════════════════════════════════════════════
-API_KEY = ""
-API_SECRET = ""
+API_KEY = "s7oOHIGbn6kp4Veq0tuTmtXMxByPZAIMlJGBVCMKeDQ4PsnxukFUSN7ft7cx3mAj"
+API_SECRET = "cmjor0QHbyq5MfuxHyfMBMJRjnb4gkYBsZJXO0OYKUa2kkVXweLctnLVv5NNvkWo"
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
